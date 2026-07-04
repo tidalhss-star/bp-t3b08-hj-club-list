@@ -7,10 +7,4 @@ Allow: /
 User-agent: Bingbot
 Allow: /
 
-User-agent: Yeti
-Allow: /
-
-User-agent: OAI-SearchBot
-Allow: /
-
-Sitemap: https://t3b08-hj-club-list.pages.dev/sitemap.xml
+Sitemap: https://hongdae-review-tip.program-school.online/sitemap.xml
